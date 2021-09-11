@@ -20,15 +20,15 @@ if(username != None or email != None):
 
     elif Linux == 1:
 
-        os_emojie = "Linux"
+        os_emojie = "\U0001F427"
 
     elif MacOS == 1:
 
-        os_emojie = "MacOS"
+        os_emojie = "\U0001F34E"
 
     elif Android == 1:
 
-        os_emojie = "Android"
+        os_emojie = "\U0001F916"
 
     else:
         os_emojie = "Aucun OS reonnut"
